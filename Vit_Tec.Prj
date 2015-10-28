@@ -1559,7 +1559,7 @@
       <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect28" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Evniz_1</Argument>
+            <Argument>Evniz_2</Argument>
             <Argument>32</Argument>
           </InstanceDescriptor>
         </Property>
@@ -1589,7 +1589,7 @@
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect28</Property>
         <Property name="Size">16, 16</Property>
-        <Property name="TagBinding">Evniz_1</Property>
+        <Property name="TagBinding">Evniz_2</Property>
         <Property name="TagBitNo">32</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1643,7 +1643,7 @@
       <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect29" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Evniz_1</Argument>
+            <Argument>Evniz_2</Argument>
             <Argument>32</Argument>
           </InstanceDescriptor>
         </Property>
@@ -1673,7 +1673,7 @@
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect29</Property>
         <Property name="Size">16, 16</Property>
-        <Property name="TagBinding">Evniz_1</Property>
+        <Property name="TagBinding">Evniz_2</Property>
         <Property name="TagBitNo">32</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1727,7 +1727,7 @@
       <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect30" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Evser_1</Argument>
+            <Argument>Evser_2</Argument>
             <Argument>32</Argument>
           </InstanceDescriptor>
         </Property>
@@ -1757,7 +1757,7 @@
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect30</Property>
         <Property name="Size">16, 16</Property>
-        <Property name="TagBinding">Evser_1</Property>
+        <Property name="TagBinding">Evser_2</Property>
         <Property name="TagBitNo">32</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1811,7 +1811,7 @@
       <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect31" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Evser_1</Argument>
+            <Argument>Evser_2</Argument>
             <Argument>32</Argument>
           </InstanceDescriptor>
         </Property>
@@ -1841,7 +1841,7 @@
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect31</Property>
         <Property name="Size">16, 16</Property>
-        <Property name="TagBinding">Evser_1</Property>
+        <Property name="TagBinding">Evser_2</Property>
         <Property name="TagBitNo">32</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1895,7 +1895,7 @@
       <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect32" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Evverh_1</Argument>
+            <Argument>Evverh_2</Argument>
             <Argument>32</Argument>
           </InstanceDescriptor>
         </Property>
@@ -1925,7 +1925,7 @@
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect32</Property>
         <Property name="Size">16, 16</Property>
-        <Property name="TagBinding">Evverh_1</Property>
+        <Property name="TagBinding">Evverh_2</Property>
         <Property name="TagBitNo">32</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1979,7 +1979,7 @@
       <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect33" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Evverh_1</Argument>
+            <Argument>Evverh_2</Argument>
             <Argument>32</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2009,7 +2009,7 @@
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect33</Property>
         <Property name="Size">16, 16</Property>
-        <Property name="TagBinding">Evverh_1</Property>
+        <Property name="TagBinding">Evverh_2</Property>
         <Property name="TagBitNo">32</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -2063,7 +2063,7 @@
       <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect34" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Evizm_1</Argument>
+            <Argument>Evizm_2</Argument>
             <Argument>32</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2093,7 +2093,7 @@
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect34</Property>
         <Property name="Size">14, 16</Property>
-        <Property name="TagBinding">Evizm_1</Property>
+        <Property name="TagBinding">Evizm_2</Property>
         <Property name="TagBitNo">32</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -2147,7 +2147,7 @@
       <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect35" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Evizm_1</Argument>
+            <Argument>Evizm_2</Argument>
             <Argument>32</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2177,7 +2177,7 @@
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect35</Property>
         <Property name="Size">14, 16</Property>
-        <Property name="TagBinding">Evizm_1</Property>
+        <Property name="TagBinding">Evizm_2</Property>
         <Property name="TagBitNo">32</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -2231,7 +2231,7 @@
       <Object type="ControlsLib.CutawayControl, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CutawayControl2" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Lft_1</Argument>
+            <Argument>Lft_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2365,7 +2365,7 @@
       <Object type="ControlsLib.DigitalBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DigitalBox18" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Mft_1</Argument>
+            <Argument>Mft_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2402,7 +2402,7 @@
         <Property name="Location">372, 219</Property>
         <Property name="Name">DigitalBox18</Property>
         <Property name="Size">115, 52</Property>
-        <Property name="TagBinding">Mft_1</Property>
+        <Property name="TagBinding">Mft_2</Property>
         <Property name="Value">9752</Property>
         <Property name="ValueFontName">Arial</Property>
         <Property name="ValueFontSize">18</Property>
@@ -2471,7 +2471,7 @@
       <Object type="ControlsLib.DigitalBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DigitalBox17" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>MSft_1</Argument>
+            <Argument>MSft_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2510,7 +2510,7 @@
         <Property name="Location">373, 182</Property>
         <Property name="Name">DigitalBox17</Property>
         <Property name="Size">115, 52</Property>
-        <Property name="TagBinding">MSft_1</Property>
+        <Property name="TagBinding">MSft_2</Property>
         <Property name="Value">9752</Property>
         <Property name="ValueFontName">Arial</Property>
         <Property name="ValueFontSize">18</Property>
@@ -2579,7 +2579,7 @@
       <Object type="ControlsLib.DigitalBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DigitalBox16" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>VftL_1</Argument>
+            <Argument>VftL_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2618,7 +2618,7 @@
         <Property name="Location">366, 53</Property>
         <Property name="Name">DigitalBox16</Property>
         <Property name="Size">115, 52</Property>
-        <Property name="TagBinding">VftL_1</Property>
+        <Property name="TagBinding">VftL_2</Property>
         <Property name="Value">9752</Property>
         <Property name="ValueFontName">Arial</Property>
         <Property name="ValueFontSize">18</Property>
@@ -2633,7 +2633,7 @@
       <Object type="ControlsLib.DigitalBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DigitalBox15" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Lft_1</Argument>
+            <Argument>Lft_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2672,7 +2672,7 @@
         <Property name="Location">365, 117</Property>
         <Property name="Name">DigitalBox15</Property>
         <Property name="Size">115, 68</Property>
-        <Property name="TagBinding">Lft_1</Property>
+        <Property name="TagBinding">Lft_2</Property>
         <Property name="Value">9752</Property>
         <Property name="ValueFontName">Arial</Property>
         <Property name="ValueFontSize">24</Property>
@@ -2741,7 +2741,7 @@
       <Object type="ControlsLib.DigitalBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DigitalBox14" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Ts_1</Argument>
+            <Argument>Ts_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2779,7 +2779,7 @@
         <Property name="Location">246, 125</Property>
         <Property name="Name">DigitalBox14</Property>
         <Property name="Size">105, 58</Property>
-        <Property name="TagBinding">Ts_1</Property>
+        <Property name="TagBinding">Ts_2</Property>
         <Property name="Value">99</Property>
         <Property name="ValueFontName">Arial</Property>
         <Property name="ValueFontSize">22</Property>
@@ -2848,7 +2848,7 @@
       <Object type="ControlsLib.DigitalBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DigitalBox13" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Tv_1</Argument>
+            <Argument>Tv_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2886,7 +2886,7 @@
         <Property name="Location">246, 55</Property>
         <Property name="Name">DigitalBox13</Property>
         <Property name="Size">105, 54</Property>
-        <Property name="TagBinding">Tv_1</Property>
+        <Property name="TagBinding">Tv_2</Property>
         <Property name="Value">99</Property>
         <Property name="ValueFontName">Arial</Property>
         <Property name="ValueFontSize">22</Property>
@@ -2954,7 +2954,7 @@
       <Object type="ControlsLib.DigitalBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DigitalBox12" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Tn_1</Argument>
+            <Argument>Tn_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2992,7 +2992,7 @@
         <Property name="Location">246, 195</Property>
         <Property name="Name">DigitalBox12</Property>
         <Property name="Size">105, 58</Property>
-        <Property name="TagBinding">Tn_1</Property>
+        <Property name="TagBinding">Tn_2</Property>
         <Property name="Value">99</Property>
         <Property name="ValueFontName">Arial</Property>
         <Property name="ValueFontSize">22</Property>
@@ -4575,7 +4575,7 @@
       <Object type="ControlsLib.DigitalBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DigitalBox3" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Lpred_1</Argument>
+            <Argument>Lpred_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -4609,7 +4609,7 @@
         <Property name="Location">371, 130</Property>
         <Property name="Name">DigitalBox3</Property>
         <Property name="Size">96, 24</Property>
-        <Property name="TagBinding">Lpred_1</Property>
+        <Property name="TagBinding">Lpred_2</Property>
         <Property name="ValueFontName">Tahoma</Property>
         <Property name="ValueFontSize">12</Property>
         <Property name="ValueStyle">Regular</Property>
@@ -4623,7 +4623,7 @@
       <Object type="ControlsLib.DigitalBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DigitalBox2" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Tsr_1</Argument>
+            <Argument>Tsr_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -4657,7 +4657,7 @@
         <Property name="Location">371, 103</Property>
         <Property name="Name">DigitalBox2</Property>
         <Property name="Size">96, 24</Property>
-        <Property name="TagBinding">Tsr_1</Property>
+        <Property name="TagBinding">Tsr_2</Property>
         <Property name="ValueFontName">Tahoma</Property>
         <Property name="ValueFontSize">12</Property>
         <Property name="ValueStyle">Regular</Property>
@@ -4671,7 +4671,7 @@
       <Object type="ControlsLib.DigitalBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DigitalBox1" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Roft_1</Argument>
+            <Argument>Roft_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -4705,7 +4705,7 @@
         <Property name="Location">370, 76</Property>
         <Property name="Name">DigitalBox1</Property>
         <Property name="Size">96, 24</Property>
-        <Property name="TagBinding">Roft_1</Property>
+        <Property name="TagBinding">Roft_2</Property>
         <Property name="ValueFontName">Tahoma</Property>
         <Property name="ValueFontSize">12</Property>
         <Property name="ValueStyle">Regular</Property>
@@ -4891,7 +4891,7 @@
         <Property name="_TabIndex">22</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>P_1</Argument>
+            <Argument>P_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -4924,7 +4924,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Item>
         </Property>
         <Property name="Size">110, 24</Property>
-        <Property name="TagBinding">P_1</Property>
+        <Property name="TagBinding">P_2</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -4937,7 +4937,7 @@
         <Property name="_TabIndex">23</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>dL_1</Argument>
+            <Argument>dL_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -4970,7 +4970,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Item>
         </Property>
         <Property name="Size">110, 24</Property>
-        <Property name="TagBinding">dL_1</Property>
+        <Property name="TagBinding">dL_2</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -5025,7 +5025,7 @@
         <Property name="_TabIndex">19</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>W_1</Argument>
+            <Argument>W_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -5056,7 +5056,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Item>
         </Property>
         <Property name="Size">110, 24</Property>
-        <Property name="TagBinding">W_1</Property>
+        <Property name="TagBinding">W_2</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -5069,7 +5069,7 @@
         <Property name="_TabIndex">20</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Ro0_1</Argument>
+            <Argument>Ro0_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -5100,7 +5100,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Item>
         </Property>
         <Property name="Size">110, 24</Property>
-        <Property name="TagBinding">Ro0_1</Property>
+        <Property name="TagBinding">Ro0_2</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -5411,7 +5411,7 @@
         <Property name="_TabIndex">28</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Htv_1</Argument>
+            <Argument>Htv_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -5444,7 +5444,7 @@
         </Property>
         <Property name="SecurityLevel">9</Property>
         <Property name="Size">110, 24</Property>
-        <Property name="TagBinding">Htv_1</Property>
+        <Property name="TagBinding">Htv_2</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -5457,7 +5457,7 @@
         <Property name="_TabIndex">26</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Hts_1</Argument>
+            <Argument>Hts_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -5490,7 +5490,7 @@
         </Property>
         <Property name="SecurityLevel">9</Property>
         <Property name="Size">110, 24</Property>
-        <Property name="TagBinding">Hts_1</Property>
+        <Property name="TagBinding">Hts_2</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -5503,7 +5503,7 @@
         <Property name="_TabIndex">24</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Htn_1</Argument>
+            <Argument>Htn_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -5536,7 +5536,7 @@
         </Property>
         <Property name="SecurityLevel">9</Property>
         <Property name="Size">110, 24</Property>
-        <Property name="TagBinding">Htn_1</Property>
+        <Property name="TagBinding">Htn_2</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -5549,7 +5549,7 @@
         <Property name="_TabIndex">25</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Vmo_1</Argument>
+            <Argument>Vmo_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -5582,7 +5582,7 @@
         </Property>
         <Property name="SecurityLevel">9</Property>
         <Property name="Size">110, 24</Property>
-        <Property name="TagBinding">Vmo_1</Property>
+        <Property name="TagBinding">Vmo_2</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -5595,7 +5595,7 @@
         <Property name="_TabIndex">21</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Hmo_1</Argument>
+            <Argument>Hmo_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -5628,7 +5628,7 @@
         </Property>
         <Property name="SecurityLevel">9</Property>
         <Property name="Size">110, 24</Property>
-        <Property name="TagBinding">Hmo_1</Property>
+        <Property name="TagBinding">Hmo_2</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -5648,17 +5648,21 @@
       <Property name="TitleBar">False</Property>
     </Object>
   </DOCUMENT_ELEMENT>
-  <DOCUMENT_ELEMENT Page="cool_popup_2" OnTab="4">
+  <DOCUMENT_ELEMENT Page="cool_popup_2" OnTab="4" Active="Yes">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="cool_popup_2" children="Controls">
       <Object type="ControlsLib.NumericUpDown, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NumericUpDown9" children="Controls">
         <Property name="_TabIndex">97</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>GP_1</Argument>
+            <Argument>GP_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -5682,7 +5686,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">80</Item>
         </Property>
         <Property name="Size">99, 24</Property>
-        <Property name="TagBinding">GP_1</Property>
+        <Property name="TagBinding">GP_2</Property>
         <Property name="Text">80</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Value">80</Property>
@@ -5697,11 +5701,15 @@
         <Property name="_TabIndex">96</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>G_1</Argument>
+            <Argument>G_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -5725,7 +5733,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">80</Item>
         </Property>
         <Property name="Size">86, 24</Property>
-        <Property name="TagBinding">G_1</Property>
+        <Property name="TagBinding">G_2</Property>
         <Property name="Text">80</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Value">80</Property>
@@ -5745,6 +5753,10 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Back_Color">Transparent</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -5778,11 +5790,15 @@
       <Object type="ControlsLib.CheckBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckBox1" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>SZI_1</Argument>
+            <Argument>SZI_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -5804,7 +5820,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">СЗИ</Item>
         </Property>
         <Property name="Size">67, 25</Property>
-        <Property name="TagBinding">SZI_1</Property>
+        <Property name="TagBinding">SZI_2</Property>
         <Property name="Text">СЗИ</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -5817,11 +5833,15 @@
         <Property name="_TabIndex">95</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>ustT_1_l</Argument>
+            <Argument>ustT_2_l</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -5845,7 +5865,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">80</Item>
         </Property>
         <Property name="Size">86, 24</Property>
-        <Property name="TagBinding">ustT_1_l</Property>
+        <Property name="TagBinding">ustT_2_l</Property>
         <Property name="Text">80</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Value">80</Property>
@@ -5860,11 +5880,15 @@
         <Property name="_TabIndex">93</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>ustT_1_h</Argument>
+            <Argument>ustT_2_h</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -5888,7 +5912,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">90</Item>
         </Property>
         <Property name="Size">85, 24</Property>
-        <Property name="TagBinding">ustT_1_h</Property>
+        <Property name="TagBinding">ustT_2_h</Property>
         <Property name="Text">90</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Value">90</Property>
@@ -5903,11 +5927,15 @@
         <Property name="_TabIndex">92</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>ustP_1_l</Argument>
+            <Argument>ustP_2_l</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -5932,7 +5960,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">500</Item>
         </Property>
         <Property name="Size">99, 24</Property>
-        <Property name="TagBinding">ustP_1_l</Property>
+        <Property name="TagBinding">ustP_2_l</Property>
         <Property name="Text">500</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Value">500</Property>
@@ -5947,11 +5975,15 @@
         <Property name="_TabIndex">94</Property>
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>ustP_1_h</Argument>
+            <Argument>ustP_2_h</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -5976,7 +6008,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">2900</Item>
         </Property>
         <Property name="Size">99, 24</Property>
-        <Property name="TagBinding">ustP_1_h</Property>
+        <Property name="TagBinding">ustP_2_h</Property>
         <Property name="Text">2900</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Value">2900</Property>
@@ -6012,14 +6044,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect9</Item>
-        </Property>
         <Property name="Location">327, 132</Property>
         <Property name="Name">Rect9</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect9</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect9</Property>
         <Property name="Size">51, 17</Property>
@@ -6054,14 +6080,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line7</Item>
-        </Property>
         <Property name="Location">296, 112</Property>
         <Property name="Name">Line7</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line7</Item>
-        </Property>
         <Property name="Point1">80, 5</Property>
         <Property name="Point2">5, 5</Property>
         <Property name="PRs" />
@@ -6099,14 +6119,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect1</Item>
-        </Property>
         <Property name="Location">6, 132</Property>
         <Property name="Name">Rect1</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect1</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect1</Property>
         <Property name="Size">51, 17</Property>
@@ -6142,14 +6156,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect7</Item>
-        </Property>
         <Property name="Location">328, 84</Property>
         <Property name="Name">Rect7</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect7</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect7</Property>
         <Property name="Size">51, 17</Property>
@@ -6184,14 +6192,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line2</Item>
-        </Property>
         <Property name="Location">2, 112</Property>
         <Property name="Name">Line2</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line2</Item>
-        </Property>
         <Property name="Point1">80, 5</Property>
         <Property name="Point2">5, 5</Property>
         <Property name="PRs" />
@@ -6228,14 +6230,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line5</Item>
-        </Property>
         <Property name="Location">297, 64</Property>
         <Property name="Name">Line5</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line5</Item>
-        </Property>
         <Property name="Point1">80, 5</Property>
         <Property name="Point2">5, 5</Property>
         <Property name="PRs" />
@@ -6273,14 +6269,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect2</Item>
-        </Property>
         <Property name="Location">6, 84</Property>
         <Property name="Name">Rect2</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect2</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect2</Property>
         <Property name="Size">51, 17</Property>
@@ -6316,14 +6306,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect6</Item>
-        </Property>
         <Property name="Location">328, 36</Property>
         <Property name="Name">Rect6</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect6</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect6</Property>
         <Property name="Size">51, 17</Property>
@@ -6358,14 +6342,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line3</Item>
-        </Property>
         <Property name="Location">2, 64</Property>
         <Property name="Name">Line3</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line3</Item>
-        </Property>
         <Property name="Point1">80, 5</Property>
         <Property name="Point2">5, 5</Property>
         <Property name="PRs" />
@@ -6403,14 +6381,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect3</Item>
-        </Property>
         <Property name="Location">6, 36</Property>
         <Property name="Name">Rect3</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect3</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect3</Property>
         <Property name="Size">51, 17</Property>
@@ -6430,6 +6402,10 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Back_Color">Transparent</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -6470,6 +6446,10 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Back_Color">Transparent</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -6513,6 +6493,10 @@
         <Property name="Bands">
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Gray;Black;Turquoise;Закрыть;True;False;Pink;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;Red;Black;Turquoise;Button7;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
         </Property>
         <Property name="Clicked">ClosePopup(cool_popup_2);
 </Property>
