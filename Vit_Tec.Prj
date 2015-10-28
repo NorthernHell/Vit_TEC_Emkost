@@ -2231,7 +2231,7 @@
       <Object type="ControlsLib.CutawayControl, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CutawayControl2" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Lft_2</Argument>
+            <Argument>Lsumft_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2298,7 +2298,7 @@
       <Object type="ControlsLib.CutawayControl, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CutawayControl1" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Lft_1</Argument>
+            <Argument>Lsumft_1</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2633,7 +2633,7 @@
       <Object type="ControlsLib.DigitalBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DigitalBox15" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Lft_2</Argument>
+            <Argument>Lsumft_2</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2672,7 +2672,7 @@
         <Property name="Location">365, 117</Property>
         <Property name="Name">DigitalBox15</Property>
         <Property name="Size">115, 68</Property>
-        <Property name="TagBinding">Lft_2</Property>
+        <Property name="TagBinding">Lsumft_2</Property>
         <Property name="Value">9752</Property>
         <Property name="ValueFontName">Arial</Property>
         <Property name="ValueFontSize">24</Property>
@@ -2794,7 +2794,7 @@
       <Object type="ControlsLib.DigitalBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DigitalBox3" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
-            <Argument>Lft_1</Argument>
+            <Argument>Lsumft_1</Argument>
             <Argument>0</Argument>
           </InstanceDescriptor>
         </Property>
@@ -2833,7 +2833,7 @@
         <Property name="Location">121, 117</Property>
         <Property name="Name">DigitalBox3</Property>
         <Property name="Size">115, 68</Property>
-        <Property name="TagBinding">Lft_1</Property>
+        <Property name="TagBinding">Lsumft_1</Property>
         <Property name="Value">9752</Property>
         <Property name="ValueFontName">Arial</Property>
         <Property name="ValueFontSize">24</Property>
