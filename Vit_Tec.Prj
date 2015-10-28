@@ -2234,6 +2234,8 @@
           </Item>
         </Property>
         <Property name="BorderType">BorderTypeNone</Property>
+        <Property name="Clicked">GotoPopup(cool_popup_1);
+</Property>
         <Property name="EmptyColor">90, 90, 90</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -2332,6 +2334,8 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
+        <Property name="Clicked">GotoPopup(cool_popup_1);
+</Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -2436,6 +2440,8 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
+        <Property name="Clicked">GotoPopup(cool_popup_1);
+</Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -2592,6 +2598,8 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
+        <Property name="Clicked">GotoPopup(cool_popup_1);
+</Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -2695,6 +2703,8 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
+        <Property name="Clicked">GotoPopup(cool_popup_1);
+</Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -2797,6 +2807,8 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
+        <Property name="Clicked">GotoPopup(cool_popup_1);
+</Property>
         <Property name="Decimal">1</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -2899,6 +2911,8 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
+        <Property name="Clicked">GotoPopup(cool_popup_1);
+</Property>
         <Property name="Decimal">1</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -2950,6 +2964,8 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
+        <Property name="Clicked">GotoPopup(cool_popup_1);
+</Property>
         <Property name="Decimal">1</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
