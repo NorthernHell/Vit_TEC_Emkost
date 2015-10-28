@@ -4,8 +4,102 @@
     <Item Title="Screen2" />
     <Item Title="cool_popup_1" />
   </ScreenTree>
-  <DOCUMENT_ELEMENT Page="Screen1" OnTab="0" Active="Yes">
+  <DOCUMENT_ELEMENT Page="Screen1" OnTab="0">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Screen1" children="Controls">
+      <Object type="ControlsLib.Button, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Button3" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">192, 192, 192</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;64, 224, 208;Выход;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Clicked">Logout();
+</Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Выход</Item>
+        </Property>
+        <Property name="Location">356, 168</Property>
+        <Property name="Name">Button3</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Выход</Item>
+        </Property>
+        <Property name="Size">121, 29</Property>
+        <Property name="Text">Выход</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Button, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Button2" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">192, 192, 192</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;64, 224, 208;Авторизация;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Clicked">Login();
+</Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Авторизация</Item>
+        </Property>
+        <Property name="Location">356, 137</Property>
+        <Property name="Name">Button2</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Авторизация</Item>
+        </Property>
+        <Property name="Size">121, 29</Property>
+        <Property name="Text">Авторизация</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
       <Object type="ControlsLib.Button, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Button1" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -74,10 +168,6 @@
             <Argument>Regular</Argument>
           </InstanceDescriptor>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">1</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -91,14 +181,8 @@
         <Property name="FontStyle">Regular</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox3</Item>
-        </Property>
-        <Property name="Location">371, 109</Property>
+        <Property name="Location">371, 104</Property>
         <Property name="Name">DigitalBox3</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox3</Item>
-        </Property>
         <Property name="Size">96, 24</Property>
         <Property name="TagBinding">Lpred_1</Property>
         <Property name="ValueFontName">Tahoma</Property>
@@ -132,10 +216,6 @@
             <Argument>Regular</Argument>
           </InstanceDescriptor>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">1</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -149,14 +229,8 @@
         <Property name="FontStyle">Regular</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox2</Item>
-        </Property>
-        <Property name="Location">371, 82</Property>
+        <Property name="Location">371, 77</Property>
         <Property name="Name">DigitalBox2</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox2</Item>
-        </Property>
         <Property name="Size">96, 24</Property>
         <Property name="TagBinding">Tsr_1</Property>
         <Property name="ValueFontName">Tahoma</Property>
@@ -190,10 +264,6 @@
             <Argument>Regular</Argument>
           </InstanceDescriptor>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">4</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -207,14 +277,8 @@
         <Property name="FontStyle">Regular</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox1</Item>
-        </Property>
-        <Property name="Location">370, 55</Property>
+        <Property name="Location">370, 50</Property>
         <Property name="Name">DigitalBox1</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox1</Item>
-        </Property>
         <Property name="Size">96, 24</Property>
         <Property name="TagBinding">Roft_1</Property>
         <Property name="ValueFontName">Tahoma</Property>
@@ -427,7 +491,7 @@
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Item>
         </Property>
-        <Property name="Location">363, 166</Property>
+        <Property name="Location">368, 208</Property>
         <Property name="Maximum">999999</Property>
         <Property name="Minimum">-999999</Property>
         <Property name="Name">NumericUpDown10</Property>
@@ -1153,7 +1217,7 @@
       <Property name="TitleBar">False</Property>
     </Object>
   </DOCUMENT_ELEMENT>
-  <DOCUMENT_ELEMENT Page="Screen2" OnTab="1">
+  <DOCUMENT_ELEMENT Page="Screen2" OnTab="1" Active="Yes">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Screen2" children="Controls">
       <Object type="ControlsLib.Button, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Button1" children="Controls">
         <Property name="_TagBinding">
@@ -1252,10 +1316,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1268,16 +1328,9 @@
         <Property name="FontStyle">Bold</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">W=8 %</Item>
-        </Property>
         <Property name="Location">113, 2</Property>
         <Property name="Name">Label_W_1</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">W=8 %</Item>
-        </Property>
         <Property name="Size">57, 25</Property>
-        <Property name="Text">W=8 %</Property>
         <Property name="TextAlign">MiddleCenter</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1328,7 +1381,7 @@
           </InstanceDescriptor>
         </Property>
       </Object>
-      <Object type="ControlsLib.Label, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Label6" children="Controls">
+      <Object type="ControlsLib.Label, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Label_Tnv" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
             <Argument />
@@ -1356,12 +1409,12 @@
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Tнар.=15 С</Item>
         </Property>
-        <Property name="Location">203, 28</Property>
-        <Property name="Name">Label6</Property>
+        <Property name="Location">193, 28</Property>
+        <Property name="Name">Label_Tnv</Property>
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Tнар.=15 С</Item>
         </Property>
-        <Property name="Size">70, 25</Property>
+        <Property name="Size">90, 25</Property>
         <Property name="Text">Tнар.=15 С</Property>
         <Property name="TextAlign">MiddleCenter</Property>
         <Property name="Visible_">
@@ -1379,10 +1432,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1395,16 +1444,9 @@
         <Property name="FontStyle">Bold</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Ro0=0,980 г/см3</Item>
-        </Property>
         <Property name="Location">4, 2</Property>
         <Property name="Name">Label_R0_1</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Ro0=0,980 г/см3</Item>
-        </Property>
         <Property name="Size">107, 25</Property>
-        <Property name="Text">Ro0=0,980 г/см3</Property>
         <Property name="TextAlign">MiddleCenter</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1427,20 +1469,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;3;White;Black;Yellow;Rect1;True;True;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;4;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1455,24 +1483,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">2</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">8</Item>
-        </Property>
         <Property name="Location">333, 206</Property>
         <Property name="Name">Rect28</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">2</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">8</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect28</Property>
         <Property name="Size">16, 16</Property>
@@ -1499,20 +1511,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;3;White;Black;Yellow;Rect1;True;True;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;4;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1527,24 +1525,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">4</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-        </Property>
         <Property name="Location">89, 206</Property>
         <Property name="Name">Rect43</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">4</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect43</Property>
         <Property name="Size">16, 16</Property>
@@ -1571,20 +1553,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;-2;White;Black;Yellow;Rect1;True;False;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;-1;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1599,24 +1567,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">2</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">9</Item>
-        </Property>
         <Property name="Location">333, 223</Property>
         <Property name="Name">Rect29</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">2</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">9</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect29</Property>
         <Property name="Size">16, 16</Property>
@@ -1643,20 +1595,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;-2;White;Black;Yellow;Rect1;True;False;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;-1;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1671,24 +1609,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">4</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">2</Item>
-        </Property>
         <Property name="Location">89, 223</Property>
         <Property name="Name">Rect42</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">4</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">2</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect42</Property>
         <Property name="Size">16, 16</Property>
@@ -1715,20 +1637,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;3;White;Black;Yellow;Rect1;True;True;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;4;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1743,24 +1651,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Item>
-        </Property>
         <Property name="Location">333, 135</Property>
         <Property name="Name">Rect30</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect30</Property>
         <Property name="Size">16, 16</Property>
@@ -1787,20 +1679,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;3;White;Black;Yellow;Rect1;True;True;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;4;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1815,24 +1693,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">4</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Item>
-        </Property>
         <Property name="Location">89, 135</Property>
         <Property name="Name">Rect41</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">4</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect41</Property>
         <Property name="Size">16, 16</Property>
@@ -1859,20 +1721,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;-2;White;Black;Yellow;Rect1;True;False;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;-1;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1887,24 +1735,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Item>
-        </Property>
         <Property name="Location">333, 152</Property>
         <Property name="Name">Rect31</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect31</Property>
         <Property name="Size">16, 16</Property>
@@ -1931,20 +1763,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;-2;White;Black;Yellow;Rect1;True;False;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;-1;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -1959,24 +1777,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">4</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Item>
-        </Property>
         <Property name="Location">89, 152</Property>
         <Property name="Name">Rect40</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">4</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect40</Property>
         <Property name="Size">16, 16</Property>
@@ -2003,20 +1805,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;3;White;Black;Yellow;Rect1;True;True;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;4;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -2031,24 +1819,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">2</Item>
-        </Property>
         <Property name="Location">333, 62</Property>
         <Property name="Name">Rect32</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">2</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect32</Property>
         <Property name="Size">16, 16</Property>
@@ -2075,20 +1847,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;3;White;Black;Yellow;Rect1;True;True;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;4;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -2103,24 +1861,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">9</Item>
-        </Property>
         <Property name="Location">89, 62</Property>
         <Property name="Name">Rect39</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">9</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect39</Property>
         <Property name="Size">16, 16</Property>
@@ -2147,20 +1889,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;-2;White;Black;Yellow;Rect1;True;False;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;-1;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -2175,24 +1903,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-        </Property>
         <Property name="Location">333, 79</Property>
         <Property name="Name">Rect33</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect33</Property>
         <Property name="Size">16, 16</Property>
@@ -2219,20 +1931,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;-2;White;Black;Yellow;Rect1;True;False;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;-1;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -2247,24 +1945,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">8</Item>
-        </Property>
         <Property name="Location">89, 79</Property>
         <Property name="Name">Rect38</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">8</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect38</Property>
         <Property name="Size">16, 16</Property>
@@ -2291,20 +1973,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;3;White;Black;Yellow;Rect1;True;True;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;4;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -2319,24 +1987,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">4</Item>
-        </Property>
         <Property name="Location">464, 135</Property>
         <Property name="Name">Rect34</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">4</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect34</Property>
         <Property name="Size">14, 16</Property>
@@ -2363,20 +2015,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;3;White;Black;Yellow;Rect1;True;True;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;4;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -2391,24 +2029,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">7</Item>
-        </Property>
         <Property name="Location">220, 135</Property>
         <Property name="Name">Rect37</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">7</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect37</Property>
         <Property name="Size">14, 16</Property>
@@ -2435,20 +2057,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;-2;White;Black;Yellow;Rect1;True;False;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;-1;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -2463,24 +2071,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">5</Item>
-        </Property>
         <Property name="Location">464, 152</Property>
         <Property name="Name">Rect35</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">5</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect35</Property>
         <Property name="Size">14, 16</Property>
@@ -2507,20 +2099,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">2;-2;White;Black;Yellow;Rect1;True;False;255, 128, 0;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">3;-1;White;Black;Transparent;Rect1;True;False;255, 128, 64;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">False</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -2535,24 +2113,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">6</Item>
-        </Property>
         <Property name="Location">220, 152</Property>
         <Property name="Name">Rect36</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">R</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">e</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">c</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">t</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">6</Item>
-        </Property>
         <Property name="PRs" />
         <Property name="ResourceName">ScreenFmRect36</Property>
         <Property name="Size">14, 16</Property>
@@ -2718,10 +2280,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -2736,14 +2294,8 @@
         <Property name="Fore_Color">64, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox18</Item>
-        </Property>
         <Property name="Location">372, 219</Property>
         <Property name="Name">DigitalBox18</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox18</Item>
-        </Property>
         <Property name="Size">115, 52</Property>
         <Property name="TagBinding">Mft_1</Property>
         <Property name="Value">9752</Property>
@@ -2780,10 +2332,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -2798,14 +2346,8 @@
         <Property name="Fore_Color">64, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox11</Item>
-        </Property>
         <Property name="Location">128, 219</Property>
         <Property name="Name">DigitalBox11</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox11</Item>
-        </Property>
         <Property name="Size">115, 52</Property>
         <Property name="TagBinding">Mft_1</Property>
         <Property name="Value">9752</Property>
@@ -2842,10 +2384,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -2860,14 +2398,8 @@
         <Property name="Fore_Color">64, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox17</Item>
-        </Property>
         <Property name="Location">373, 182</Property>
         <Property name="Name">DigitalBox17</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox17</Item>
-        </Property>
         <Property name="Size">115, 52</Property>
         <Property name="TagBinding">MSft_1</Property>
         <Property name="Value">9752</Property>
@@ -2904,10 +2436,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -2922,14 +2450,8 @@
         <Property name="Fore_Color">64, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox10</Item>
-        </Property>
         <Property name="Location">129, 182</Property>
         <Property name="Name">DigitalBox10</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox10</Item>
-        </Property>
         <Property name="Size">115, 52</Property>
         <Property name="TagBinding">MSft_1</Property>
         <Property name="Value">9752</Property>
@@ -2966,10 +2488,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -2984,14 +2502,8 @@
         <Property name="Fore_Color">0, 0, 255</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox16</Item>
-        </Property>
         <Property name="Location">366, 53</Property>
         <Property name="Name">DigitalBox16</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox16</Item>
-        </Property>
         <Property name="Size">115, 52</Property>
         <Property name="TagBinding">VftL_1</Property>
         <Property name="Value">9752</Property>
@@ -3028,10 +2540,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -3046,14 +2554,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox15</Item>
-        </Property>
         <Property name="Location">365, 117</Property>
         <Property name="Name">DigitalBox15</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox15</Item>
-        </Property>
         <Property name="Size">115, 68</Property>
         <Property name="TagBinding">Lft_1</Property>
         <Property name="Value">9752</Property>
@@ -3090,10 +2592,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -3108,14 +2606,8 @@
         <Property name="Fore_Color">0, 0, 255</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox9</Item>
-        </Property>
         <Property name="Location">122, 53</Property>
         <Property name="Name">DigitalBox9</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox9</Item>
-        </Property>
         <Property name="Size">115, 52</Property>
         <Property name="TagBinding">VftL_1</Property>
         <Property name="Value">9752</Property>
@@ -3151,10 +2643,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">1</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -3169,14 +2657,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox14</Item>
-        </Property>
         <Property name="Location">246, 125</Property>
         <Property name="Name">DigitalBox14</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox14</Item>
-        </Property>
         <Property name="Size">105, 58</Property>
         <Property name="TagBinding">Ts_1</Property>
         <Property name="Value">99</Property>
@@ -3213,10 +2695,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -3231,14 +2709,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox3</Item>
-        </Property>
         <Property name="Location">121, 117</Property>
         <Property name="Name">DigitalBox3</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox3</Item>
-        </Property>
         <Property name="Size">115, 68</Property>
         <Property name="TagBinding">Lft_1</Property>
         <Property name="Value">9752</Property>
@@ -3274,10 +2746,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">1</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -3292,14 +2760,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox13</Item>
-        </Property>
         <Property name="Location">246, 55</Property>
         <Property name="Name">DigitalBox13</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox13</Item>
-        </Property>
         <Property name="Size">105, 54</Property>
         <Property name="TagBinding">Tv_1</Property>
         <Property name="Value">99</Property>
@@ -3335,10 +2797,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">1</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -3353,14 +2811,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox2</Item>
-        </Property>
         <Property name="Location">2, 125</Property>
         <Property name="Name">DigitalBox2</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox2</Item>
-        </Property>
         <Property name="Size">105, 58</Property>
         <Property name="TagBinding">Ts_1</Property>
         <Property name="Value">99</Property>
@@ -3396,10 +2848,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">1</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -3414,14 +2862,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox12</Item>
-        </Property>
         <Property name="Location">246, 195</Property>
         <Property name="Name">DigitalBox12</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox12</Item>
-        </Property>
         <Property name="Size">105, 58</Property>
         <Property name="TagBinding">Tn_1</Property>
         <Property name="Value">99</Property>
@@ -3457,10 +2899,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">1</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -3475,14 +2913,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox4</Item>
-        </Property>
         <Property name="Location">2, 55</Property>
         <Property name="Name">DigitalBox4</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox4</Item>
-        </Property>
         <Property name="Size">105, 54</Property>
         <Property name="TagBinding">Tv_1</Property>
         <Property name="Value">99</Property>
@@ -3518,10 +2950,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">1</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -3536,14 +2964,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox1</Item>
-        </Property>
         <Property name="Location">2, 195</Property>
         <Property name="Name">DigitalBox1</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox1</Item>
-        </Property>
         <Property name="Size">105, 58</Property>
         <Property name="TagBinding">Tn_1</Property>
         <Property name="Value">99</Property>
@@ -3819,16 +3241,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;Red;Black;Turquoise;;True;True;Transparent;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="BorderStyle">None</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -3842,20 +3254,8 @@
         <Property name="Fore_Color">Transparent</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Bit</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">La</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">mp</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-        </Property>
         <Property name="Location">115, -68</Property>
         <Property name="Name">BitLamp3</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Bit</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">La</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">mp</Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Item>
-        </Property>
         <Property name="Size">100, 45</Property>
         <Property name="TagBinding">alarm_1</Property>
         <Property name="Visible_">
@@ -3876,15 +3276,995 @@
       <Property name="TitleBar">False</Property>
     </Object>
   </DOCUMENT_ELEMENT>
-  <DOCUMENT_ELEMENT Page="cool_popup_1" OnTab="4">
+  <DOCUMENT_ELEMENT Page="cool_popup_1" OnTab="2" Active="Yes">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="cool_popup_1" children="Controls">
-      <Property name="BackColor">Silver</Property>
+      <Object type="ControlsLib.NumericUpDown, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NumericUpDown9" children="Controls">
+        <Property name="_TabIndex">76</Property>
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>GP_1</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Decimal">0</Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="fValue">80</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">80</Item>
+        </Property>
+        <Property name="Location">209, 155</Property>
+        <Property name="Name">NumericUpDown9</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">80</Item>
+        </Property>
+        <Property name="Size">99, 24</Property>
+        <Property name="TagBinding">GP_1</Property>
+        <Property name="Text">80</Property>
+        <Property name="TextAlignRight">True</Property>
+        <Property name="Value">80</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.NumericUpDown, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NumericUpDown8" children="Controls">
+        <Property name="_TabIndex">75</Property>
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>G_1</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Decimal">0</Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="fValue">80</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">80</Item>
+        </Property>
+        <Property name="Location">82, 155</Property>
+        <Property name="Name">NumericUpDown8</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">80</Item>
+        </Property>
+        <Property name="Size">86, 24</Property>
+        <Property name="TagBinding">G_1</Property>
+        <Property name="Text">80</Property>
+        <Property name="TextAlignRight">True</Property>
+        <Property name="Value">80</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Label, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Label3" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">Transparent</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">14</Property>
+        <Property name="FontStyle">Regular</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Гист.</Item>
+        </Property>
+        <Property name="Location">-42, 154</Property>
+        <Property name="Name">Label3</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Гист.</Item>
+        </Property>
+        <Property name="Size">140, 27</Property>
+        <Property name="Text">Гист.</Property>
+        <Property name="TextAlign">MiddleCenter</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.CheckBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckBox1" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>SZI_1</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Arial</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">СЗИ</Item>
+        </Property>
+        <Property name="Location">163, 8</Property>
+        <Property name="Name">CheckBox1</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">СЗИ</Item>
+        </Property>
+        <Property name="Size">67, 25</Property>
+        <Property name="TagBinding">SZI_1</Property>
+        <Property name="Text">СЗИ</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.NumericUpDown, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NumericUpDown2" children="Controls">
+        <Property name="_TabIndex">74</Property>
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>ustT_1_l</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Decimal">0</Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="fValue">80</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">80</Item>
+        </Property>
+        <Property name="Location">82, 106</Property>
+        <Property name="Name">NumericUpDown2</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">80</Item>
+        </Property>
+        <Property name="Size">86, 24</Property>
+        <Property name="TagBinding">ustT_1_l</Property>
+        <Property name="Text">80</Property>
+        <Property name="TextAlignRight">True</Property>
+        <Property name="Value">80</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.NumericUpDown, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NumericUpDown1" children="Controls">
+        <Property name="_TabIndex">72</Property>
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>ustT_1_h</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Decimal">0</Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="fValue">90</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">90</Item>
+        </Property>
+        <Property name="Location">83, 58</Property>
+        <Property name="Name">NumericUpDown1</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">90</Item>
+        </Property>
+        <Property name="Size">85, 24</Property>
+        <Property name="TagBinding">ustT_1_h</Property>
+        <Property name="Text">90</Property>
+        <Property name="TextAlignRight">True</Property>
+        <Property name="Value">90</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.NumericUpDown, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NumericUpDown7" children="Controls">
+        <Property name="_TabIndex">71</Property>
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>ustP_1_l</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Decimal">0</Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="fValue">500</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">500</Item>
+        </Property>
+        <Property name="Location">209, 106</Property>
+        <Property name="Maximum">10000</Property>
+        <Property name="Name">NumericUpDown7</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">500</Item>
+        </Property>
+        <Property name="Size">99, 24</Property>
+        <Property name="TagBinding">ustP_1_l</Property>
+        <Property name="Text">500</Property>
+        <Property name="TextAlignRight">True</Property>
+        <Property name="Value">500</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.NumericUpDown, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NumericUpDown5" children="Controls">
+        <Property name="_TabIndex">73</Property>
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>ustP_1_h</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Decimal">0</Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="fValue">2900</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">2900</Item>
+        </Property>
+        <Property name="Location">209, 58</Property>
+        <Property name="Maximum">100000</Property>
+        <Property name="Name">NumericUpDown5</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">2900</Item>
+        </Property>
+        <Property name="Size">99, 24</Property>
+        <Property name="TagBinding">ustP_1_h</Property>
+        <Property name="Text">2900</Property>
+        <Property name="TextAlignRight">True</Property>
+        <Property name="Value">2900</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect9" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;0, 0, 255;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FillColor">0, 0, 255</Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Regular</Property>
+        <Property name="Fore_Color">0, 0, 0</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect9</Item>
+        </Property>
+        <Property name="Location">327, 132</Property>
+        <Property name="Name">Rect9</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect9</Item>
+        </Property>
+        <Property name="PRs" />
+        <Property name="ResourceName">cool_popup_1Rect9</Property>
+        <Property name="Size">51, 17</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Line, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Line7" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;0, 255, 255;Line2;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Regular</Property>
+        <Property name="Fore_Color">0, 0, 0</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line7</Item>
+        </Property>
+        <Property name="Location">296, 112</Property>
+        <Property name="Name">Line7</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line7</Item>
+        </Property>
+        <Property name="Point1">80, 5</Property>
+        <Property name="Point2">5, 5</Property>
+        <Property name="PRs" />
+        <Property name="ResourceName">cool_popup_1Line7</Property>
+        <Property name="Size">85, 15</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect1" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;0, 0, 255;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FillColor">0, 0, 255</Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Regular</Property>
+        <Property name="Fore_Color">0, 0, 0</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect1</Item>
+        </Property>
+        <Property name="Location">6, 132</Property>
+        <Property name="Name">Rect1</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect1</Item>
+        </Property>
+        <Property name="PRs" />
+        <Property name="ResourceName">cool_popup_1Rect1</Property>
+        <Property name="Size">51, 17</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect7" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;0, 0, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FillColor">0, 0, 0</Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Regular</Property>
+        <Property name="Fore_Color">0, 0, 0</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect7</Item>
+        </Property>
+        <Property name="Location">328, 84</Property>
+        <Property name="Name">Rect7</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect7</Item>
+        </Property>
+        <Property name="PRs" />
+        <Property name="ResourceName">cool_popup_1Rect7</Property>
+        <Property name="Size">51, 17</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Line, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Line2" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;0, 255, 255;Line2;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Regular</Property>
+        <Property name="Fore_Color">0, 0, 0</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line2</Item>
+        </Property>
+        <Property name="Location">2, 112</Property>
+        <Property name="Name">Line2</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line2</Item>
+        </Property>
+        <Property name="Point1">80, 5</Property>
+        <Property name="Point2">5, 5</Property>
+        <Property name="PRs" />
+        <Property name="ResourceName">cool_popup_1Line2</Property>
+        <Property name="Size">85, 15</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Line, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Line5" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;0, 255, 255;Line2;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Regular</Property>
+        <Property name="Fore_Color">0, 0, 0</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line5</Item>
+        </Property>
+        <Property name="Location">297, 64</Property>
+        <Property name="Name">Line5</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line5</Item>
+        </Property>
+        <Property name="Point1">80, 5</Property>
+        <Property name="Point2">5, 5</Property>
+        <Property name="PRs" />
+        <Property name="ResourceName">cool_popup_1Line5</Property>
+        <Property name="Size">85, 15</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect2" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;0, 0, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FillColor">0, 0, 0</Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Regular</Property>
+        <Property name="Fore_Color">0, 0, 0</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect2</Item>
+        </Property>
+        <Property name="Location">6, 84</Property>
+        <Property name="Name">Rect2</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect2</Item>
+        </Property>
+        <Property name="PRs" />
+        <Property name="ResourceName">cool_popup_1Rect2</Property>
+        <Property name="Size">51, 17</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect6" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 0, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FillColor">255, 0, 0</Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Regular</Property>
+        <Property name="Fore_Color">0, 0, 0</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect6</Item>
+        </Property>
+        <Property name="Location">328, 36</Property>
+        <Property name="Name">Rect6</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect6</Item>
+        </Property>
+        <Property name="PRs" />
+        <Property name="ResourceName">cool_popup_1Rect6</Property>
+        <Property name="Size">51, 17</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Line, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Line3" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;0, 255, 255;Line2;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Regular</Property>
+        <Property name="Fore_Color">0, 0, 0</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line3</Item>
+        </Property>
+        <Property name="Location">2, 64</Property>
+        <Property name="Name">Line3</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Line3</Item>
+        </Property>
+        <Property name="Point1">80, 5</Property>
+        <Property name="Point2">5, 5</Property>
+        <Property name="PRs" />
+        <Property name="ResourceName">cool_popup_1Line3</Property>
+        <Property name="Size">85, 15</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect3" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 0, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FillColor">255, 0, 0</Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Regular</Property>
+        <Property name="Fore_Color">0, 0, 0</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect3</Item>
+        </Property>
+        <Property name="Location">6, 36</Property>
+        <Property name="Name">Rect3</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect3</Item>
+        </Property>
+        <Property name="PRs" />
+        <Property name="ResourceName">cool_popup_1Rect3</Property>
+        <Property name="Size">51, 17</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Label, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Label4" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">Transparent</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">14</Property>
+        <Property name="FontStyle">Regular</Property>
+        <Property name="Fore_Color">255, 255, 255</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Уровень</Item>
+        </Property>
+        <Property name="Location">216, 5</Property>
+        <Property name="Name">Label4</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Уровень</Item>
+        </Property>
+        <Property name="Size">140, 27</Property>
+        <Property name="Text">Уровень</Property>
+        <Property name="TextAlign">MiddleCenter</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Label, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Label5" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">Transparent</Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">14</Property>
+        <Property name="FontStyle">Regular</Property>
+        <Property name="Fore_Color">255, 255, 255</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Температура</Item>
+        </Property>
+        <Property name="Location">24, 4</Property>
+        <Property name="Name">Label5</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Температура</Item>
+        </Property>
+        <Property name="Size">140, 27</Property>
+        <Property name="Text">Температура</Property>
+        <Property name="TextAlign">MiddleCenter</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.Button, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Button7" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;Закрыть;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;255, 0, 0;Black;64, 224, 208;Button7;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Clicked">ClosePopup(cool_popup_1);
+</Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">12</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Закрыть</Item>
+        </Property>
+        <Property name="Location">146, 197</Property>
+        <Property name="Name">Button7</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Закрыть</Item>
+        </Property>
+        <Property name="Size">98, 27</Property>
+        <Property name="Text">Закрыть</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Property name="Back_Color">128, 128, 128</Property>
+      <Property name="BackColor">Gray</Property>
       <Property name="DataBindings">
         <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
       </Property>
       <Property name="Name">cool_popup_1</Property>
       <Property name="PageNo">3</Property>
-      <Property name="Size">480, 272</Property>
+      <Property name="Size">390, 230</Property>
       <Property name="TitleBar">False</Property>
       <Property name="Type">Popup</Property>
     </Object>
