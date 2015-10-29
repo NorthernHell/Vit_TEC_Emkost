@@ -6,8 +6,384 @@
     <Item Title="Screen4" />
     <Item Title="cool_popup_2" />
   </ScreenTree>
-  <DOCUMENT_ELEMENT Page="Screen1" OnTab="0" Active="Yes">
+  <DOCUMENT_ELEMENT Page="Screen1" OnTab="0">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Screen1" children="Controls">
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp8" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_08</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO8;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO8;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO8</Item>
+        </Property>
+        <Property name="Location">212, 219</Property>
+        <Property name="Name">BitLamp8</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO8</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_08</Property>
+        <Property name="Text">RO8</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp7" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_07</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO7;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO7;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO7</Item>
+        </Property>
+        <Property name="Location">182, 219</Property>
+        <Property name="Name">BitLamp7</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO7</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_07</Property>
+        <Property name="Text">RO7</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp4" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_04</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO4;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO4;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO4</Item>
+        </Property>
+        <Property name="Location">92, 219</Property>
+        <Property name="Name">BitLamp4</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO4</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_04</Property>
+        <Property name="Text">RO4</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp6" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_06</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO6;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO6;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO6</Item>
+        </Property>
+        <Property name="Location">152, 219</Property>
+        <Property name="Name">BitLamp6</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO6</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_06</Property>
+        <Property name="Text">RO6</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp3" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_03</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO3</Item>
+        </Property>
+        <Property name="Location">62, 219</Property>
+        <Property name="Name">BitLamp3</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO3</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_03</Property>
+        <Property name="Text">RO3</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp5" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_05</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO5;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO5;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO5</Item>
+        </Property>
+        <Property name="Location">122, 219</Property>
+        <Property name="Name">BitLamp5</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO5</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_05</Property>
+        <Property name="Text">RO5</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp2" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_02</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO2;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO2;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO2</Item>
+        </Property>
+        <Property name="Location">32, 219</Property>
+        <Property name="Name">BitLamp2</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO2</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_02</Property>
+        <Property name="Text">RO2</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp1" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_01</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Gray;Black;Turquoise;RO1;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;Turquoise;RO1;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO1</Item>
+        </Property>
+        <Property name="Location">2, 219</Property>
+        <Property name="Name">BitLamp1</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO1</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_01</Property>
+        <Property name="Text">RO1</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
       <Object type="ControlsLib.Button, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Button3" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -564,12 +940,12 @@
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Label2</Item>
         </Property>
-        <Property name="Location">5, 256</Property>
+        <Property name="Location">2, 256</Property>
         <Property name="Name">LabelRow</Property>
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Label2</Item>
         </Property>
-        <Property name="Size">463, 16</Property>
+        <Property name="Size">476, 16</Property>
         <Property name="Text">Label2</Property>
         <Property name="TextAlign">MiddleLeft</Property>
         <Property name="Visible_">
@@ -698,12 +1074,12 @@
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Label2</Item>
         </Property>
-        <Property name="Location">5, 239</Property>
+        <Property name="Location">2, 239</Property>
         <Property name="Name">LabelSt</Property>
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Label2</Item>
         </Property>
-        <Property name="Size">463, 16</Property>
+        <Property name="Size">476, 16</Property>
         <Property name="Text">Label2</Property>
         <Property name="TextAlign">MiddleLeft</Property>
         <Property name="Visible_">
@@ -1340,7 +1716,7 @@
       <Property name="TitleBar">False</Property>
     </Object>
   </DOCUMENT_ELEMENT>
-  <DOCUMENT_ELEMENT Page="Screen2" OnTab="1" Active="Yes">
+  <DOCUMENT_ELEMENT Page="Screen2" OnTab="1">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Screen2" children="Controls">
       <Object type="ControlsLib.Button, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Button1" children="Controls">
         <Property name="_TagBinding">
@@ -2284,7 +2660,7 @@
         <Property name="GroupName" />
         <Property name="IsAlpha">True</Property>
         <Property name="Level">100</Property>
-        <Property name="LevelMax">1192</Property>
+        <Property name="LevelMax">1193</Property>
         <Property name="Location">357, 52</Property>
         <Property name="Name">CutawayControl2</Property>
         <Property name="Size">21, 207</Property>
@@ -4305,8 +4681,384 @@
       <Property name="Type">Popup</Property>
     </Object>
   </DOCUMENT_ELEMENT>
-  <DOCUMENT_ELEMENT Page="Screen4" OnTab="3" Active="Yes">
+  <DOCUMENT_ELEMENT Page="Screen4" OnTab="3">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Screen4" children="Controls">
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp8" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_08</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO8;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO8;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO8</Item>
+        </Property>
+        <Property name="Location">212, 219</Property>
+        <Property name="Name">BitLamp8</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO8</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_08</Property>
+        <Property name="Text">RO8</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp7" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_07</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO7;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO7;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO7</Item>
+        </Property>
+        <Property name="Location">182, 219</Property>
+        <Property name="Name">BitLamp7</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO7</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_07</Property>
+        <Property name="Text">RO7</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp4" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_04</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO4;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO4;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO4</Item>
+        </Property>
+        <Property name="Location">92, 219</Property>
+        <Property name="Name">BitLamp4</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO4</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_04</Property>
+        <Property name="Text">RO4</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp6" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_06</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO6;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO6;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO6</Item>
+        </Property>
+        <Property name="Location">152, 219</Property>
+        <Property name="Name">BitLamp6</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO6</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_06</Property>
+        <Property name="Text">RO6</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp3" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_03</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO3</Item>
+        </Property>
+        <Property name="Location">62, 219</Property>
+        <Property name="Name">BitLamp3</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO3</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_03</Property>
+        <Property name="Text">RO3</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp5" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_05</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO5;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO5;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO5</Item>
+        </Property>
+        <Property name="Location">122, 219</Property>
+        <Property name="Name">BitLamp5</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO5</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_05</Property>
+        <Property name="Text">RO5</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp2" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_02</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO2;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO2;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO2</Item>
+        </Property>
+        <Property name="Location">32, 219</Property>
+        <Property name="Name">BitLamp2</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO2</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_02</Property>
+        <Property name="Text">RO2</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
+      <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp1" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>NewPort_RO_ch_01</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Back_Color">128, 128, 128</Property>
+        <Property name="Bands">
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;128, 128, 128;Black;64, 224, 208;RO1;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;11, 223, 11;Black;64, 224, 208;RO1;True;False;Pink;;False;Transparent;None;None;0;0</Item>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">8</Property>
+        <Property name="FontStyle">Bold</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO1</Item>
+        </Property>
+        <Property name="Location">2, 219</Property>
+        <Property name="Name">BitLamp1</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO1</Item>
+        </Property>
+        <Property name="Size">29, 18</Property>
+        <Property name="TagBinding">NewPort_RO_ch_01</Property>
+        <Property name="Text">RO1</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
       <Object type="ControlsLib.Button, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Button3" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -4863,12 +5615,12 @@
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Label2</Item>
         </Property>
-        <Property name="Location">5, 256</Property>
+        <Property name="Location">2, 256</Property>
         <Property name="Name">LabelRow</Property>
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Label2</Item>
         </Property>
-        <Property name="Size">463, 16</Property>
+        <Property name="Size">476, 16</Property>
         <Property name="Text">Label2</Property>
         <Property name="TextAlign">MiddleLeft</Property>
         <Property name="Visible_">
@@ -4997,12 +5749,12 @@
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Label2</Item>
         </Property>
-        <Property name="Location">5, 239</Property>
+        <Property name="Location">2, 239</Property>
         <Property name="Name">LabelSt</Property>
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Label2</Item>
         </Property>
-        <Property name="Size">463, 16</Property>
+        <Property name="Size">476, 16</Property>
         <Property name="Text">Label2</Property>
         <Property name="TextAlign">MiddleLeft</Property>
         <Property name="Visible_">
