@@ -6,7 +6,7 @@
     <Item Title="Screen4" />
     <Item Title="cool_popup_2" />
   </ScreenTree>
-  <DOCUMENT_ELEMENT Page="Screen1" OnTab="0">
+  <DOCUMENT_ELEMENT Page="Screen1" OnTab="0" Active="Yes">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Screen1" children="Controls">
       <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp8" children="Controls">
         <Property name="_TagBinding">
@@ -977,21 +977,21 @@
           </InstanceDescriptor>
         </Property>
         <Property name="FontName">Tahoma</Property>
-        <Property name="FontSize">12</Property>
+        <Property name="FontSize">10</Property>
         <Property name="FontStyle">Bold</Property>
         <Property name="GroupName">
         </Property>
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Item>
         </Property>
-        <Property name="Location">365, 218</Property>
+        <Property name="Location">365, 217</Property>
         <Property name="Maximum">999999</Property>
         <Property name="Minimum">-999999</Property>
         <Property name="Name">NumericUpDown10</Property>
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Item>
         </Property>
-        <Property name="Size">110, 24</Property>
+        <Property name="Size">110, 21</Property>
         <Property name="TagBinding">P_1</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Visible_">
@@ -1716,7 +1716,7 @@
       <Property name="TitleBar">False</Property>
     </Object>
   </DOCUMENT_ELEMENT>
-  <DOCUMENT_ELEMENT Page="Screen2" OnTab="1">
+  <DOCUMENT_ELEMENT Page="Screen2" OnTab="1" Active="Yes">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Screen2" children="Controls">
       <Object type="ControlsLib.Button, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Button1" children="Controls">
         <Property name="_TagBinding">
@@ -3076,7 +3076,7 @@
         <Property name="GroupName" />
         <Property name="IsAlpha">True</Property>
         <Property name="Level">100</Property>
-        <Property name="LevelMax">1193</Property>
+        <Property name="LevelMax">11805</Property>
         <Property name="Location">357, 52</Property>
         <Property name="Name">CutawayControl2</Property>
         <Property name="Size">21, 207</Property>
@@ -3143,7 +3143,7 @@
         <Property name="GroupName" />
         <Property name="IsAlpha">True</Property>
         <Property name="Level">100</Property>
-        <Property name="LevelMax">1192</Property>
+        <Property name="LevelMax">1020</Property>
         <Property name="Location">113, 52</Property>
         <Property name="Name">CutawayControl1</Property>
         <Property name="Size">21, 207</Property>
@@ -5197,7 +5197,7 @@
       <Property name="Type">Popup</Property>
     </Object>
   </DOCUMENT_ELEMENT>
-  <DOCUMENT_ELEMENT Page="Screen4" OnTab="3">
+  <DOCUMENT_ELEMENT Page="Screen4" OnTab="3" Active="Yes">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Screen4" children="Controls">
       <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp8" children="Controls">
         <Property name="_TagBinding">
@@ -6168,7 +6168,7 @@
           </InstanceDescriptor>
         </Property>
         <Property name="FontName">Tahoma</Property>
-        <Property name="FontSize">12</Property>
+        <Property name="FontSize">10</Property>
         <Property name="FontStyle">Bold</Property>
         <Property name="GroupName">
         </Property>
@@ -6182,7 +6182,7 @@
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Item>
         </Property>
-        <Property name="Size">110, 24</Property>
+        <Property name="Size">110, 21</Property>
         <Property name="TagBinding">P_2</Property>
         <Property name="TextAlignRight">True</Property>
         <Property name="Visible_">

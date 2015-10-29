@@ -6,10 +6,10 @@
 1,1,"NewPort",1,0,1,"\\.\COM2",115200,8,0,0,0,0,0
 #DEVICES
 "ID","ParentID","Name","Sequence","Simulate","Address","Type","Parameters","ReadTimeout","WriteTimeout","TimeoutsToSuspend","SuspendPeriod","MaxMergeBits","MaxMergeWords","UseTemplateSimple","TemplateIDSimple","UseTemplateParam","TemplateIDParam","StartingAddressBase"
-1,1,"RTD_1",12,0,60,0,2,1000,1000,0,10000,160,5,0,,0,,0
-2,1,"RTD_2",13,0,64,0,2,1000,1000,0,10000,160,5,0,,0,,0
-3,1,"AI_1",10,0,59,0,2,1000,1000,0,10000,160,5,0,,0,,0
-5,1,"RO",15,0,63,0,2,1000,1000,0,10000,160,5,0,,0,,0
+1,1,"RTD_1",18,0,61,0,2,1000,1000,0,10000,160,5,0,,0,,0
+2,1,"RTD_2",19,0,65,0,2,1000,1000,0,10000,160,5,0,,0,,0
+3,1,"AI_1",16,0,58,0,2,1000,1000,0,10000,160,5,0,,0,,0
+5,1,"RO",17,0,62,0,2,1000,1000,0,10000,160,5,0,,0,,0
 #FOLDERS
 "ID","ParentID","RecursiveParentID","Name","Sequence","Simulate","UseTemplateSimple","TemplateIDSimple","UseTemplateParam","TemplateIDParam","StartingAddressBase"
 #FOLDERS_1
