@@ -4715,7 +4715,7 @@
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO8</Item>
         </Property>
-        <Property name="Location">212, 218</Property>
+        <Property name="Location">212, 219</Property>
         <Property name="Name">BitLamp8</Property>
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO8</Item>
@@ -4762,7 +4762,7 @@
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO7</Item>
         </Property>
-        <Property name="Location">182, 218</Property>
+        <Property name="Location">182, 219</Property>
         <Property name="Name">BitLamp7</Property>
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO7</Item>
@@ -4809,7 +4809,7 @@
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO4</Item>
         </Property>
-        <Property name="Location">92, 218</Property>
+        <Property name="Location">92, 219</Property>
         <Property name="Name">BitLamp4</Property>
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO4</Item>
@@ -4856,7 +4856,7 @@
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO6</Item>
         </Property>
-        <Property name="Location">152, 218</Property>
+        <Property name="Location">152, 219</Property>
         <Property name="Name">BitLamp6</Property>
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO6</Item>
@@ -4903,7 +4903,7 @@
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO3</Item>
         </Property>
-        <Property name="Location">62, 218</Property>
+        <Property name="Location">62, 219</Property>
         <Property name="Name">BitLamp3</Property>
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO3</Item>
@@ -4950,7 +4950,7 @@
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO5</Item>
         </Property>
-        <Property name="Location">122, 218</Property>
+        <Property name="Location">122, 219</Property>
         <Property name="Name">BitLamp5</Property>
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO5</Item>
@@ -4997,7 +4997,7 @@
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO2</Item>
         </Property>
-        <Property name="Location">32, 218</Property>
+        <Property name="Location">32, 219</Property>
         <Property name="Name">BitLamp2</Property>
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO2</Item>
@@ -5044,7 +5044,7 @@
         <Property name="LayoutStrs">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO1</Item>
         </Property>
-        <Property name="Location">2, 218</Property>
+        <Property name="Location">2, 219</Property>
         <Property name="Name">BitLamp1</Property>
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RO1</Item>
@@ -6391,7 +6391,7 @@
       <Property name="TitleBar">False</Property>
     </Object>
   </DOCUMENT_ELEMENT>
-  <DOCUMENT_ELEMENT Page="cool_popup_2" OnTab="4" Active="Yes">
+  <DOCUMENT_ELEMENT Page="cool_popup_2" OnTab="4">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="cool_popup_2" children="Controls">
       <Object type="ControlsLib.NumericUpDown, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NumericUpDown9" children="Controls">
         <Property name="_TabIndex">97</Property>
