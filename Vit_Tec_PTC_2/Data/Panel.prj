@@ -1716,7 +1716,7 @@
       <Property name="TitleBar">False</Property>
     </Object>
   </DOCUMENT_ELEMENT>
-  <DOCUMENT_ELEMENT Page="Screen2" OnTab="1" Active="Yes">
+  <DOCUMENT_ELEMENT Page="Screen2" OnTab="1">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Screen2" children="Controls">
       <Object type="ControlsLib.Button, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Button1" children="Controls">
         <Property name="_TagBinding">
@@ -1789,10 +1789,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="Back_Color">255, 255, 255</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">1</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -1807,14 +1803,8 @@
         <Property name="Fore_Color">0, 0, 0</Property>
         <Property name="GroupName">
         </Property>
-        <Property name="LayoutStrs">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox19</Item>
-        </Property>
         <Property name="Location">216, 27</Property>
         <Property name="Name">DigitalBox19</Property>
-        <Property name="NCJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox19</Item>
-        </Property>
         <Property name="Size">47, 21</Property>
         <Property name="TagBinding">Tnv_1</Property>
         <Property name="ValueFontName">Tahoma</Property>
@@ -4743,7 +4733,7 @@
       <Property name="Type">Popup</Property>
     </Object>
   </DOCUMENT_ELEMENT>
-  <DOCUMENT_ELEMENT Page="Screen4" OnTab="3">
+  <DOCUMENT_ELEMENT Page="Screen4" OnTab="3" Active="Yes">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Screen4" children="Controls">
       <Object type="ControlsLib.BitLamp, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BitLamp8" children="Controls">
         <Property name="_TagBinding">
