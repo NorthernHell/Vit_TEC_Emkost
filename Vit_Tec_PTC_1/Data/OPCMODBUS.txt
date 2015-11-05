@@ -75,7 +75,7 @@
 #CONVERSIONS
 "ID","ParentID","Name","Sequence","Type","LowEU","HighEU","LowIR","HighIR","Clamping","LowClamp","HighClamp"
 1,1,"None (to/from float)",1,0,0,100,0,10000,0,0,100
-103,1,"Default Linear",105,1,0,10000,4000,20000,1,0,100
+103,1,"Default Linear",111,1,0,100000,4000,20000,1,0,100
 104,1,"Default Square Root",104,2,0,100,0,10000,1,0,100
 105,1,"Copy_of_Default Linear",110,1,-3200,3200,-32000,32000,1,0,100
 #DEVICEPARAMETERSROOT
