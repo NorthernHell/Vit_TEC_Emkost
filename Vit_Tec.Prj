@@ -6,7 +6,7 @@
     <Item Title="Screen4" />
     <Item Title="cool_popup_2" />
   </ScreenTree>
-  <DOCUMENT_ELEMENT Page="Screen1" OnTab="0">
+  <DOCUMENT_ELEMENT Page="Screen1" OnTab="0" Active="Yes">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Screen1" children="Controls">
       <Object type="ControlsLib.Button, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Button6" children="Controls">
         <Property name="_TagBinding">
@@ -690,6 +690,64 @@
           </InstanceDescriptor>
         </Property>
       </Object>
+      <Object type="ControlsLib.DigitalBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DigitalBox4" children="Controls">
+        <Property name="_TagBinding">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument>Rashod_m_1</Argument>
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="_Visible">True</Property>
+        <Property name="Attribute1">Lpred</Property>
+        <Property name="Attribute2">расч</Property>
+        <Property name="Attribute3">
+        </Property>
+        <Property name="Attribute4">
+        </Property>
+        <Property name="AttributeFont">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABJDb250cm9sc0xpYi5NeUZvbnQGBQAAADpWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyLCBTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUpAQAAAAoL">
+            <Argument>Tahoma</Argument>
+            <Argument>6</Argument>
+            <Argument>Regular</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="CJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          </Item>
+        </Property>
+        <Property name="Decimal">1</Property>
+        <Property name="Enable">True</Property>
+        <Property name="Enable_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="FontName">Tahoma</Property>
+        <Property name="FontSize">6</Property>
+        <Property name="FontStyle">Regular</Property>
+        <Property name="GroupName">
+        </Property>
+        <Property name="LayoutStrs">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox4</Item>
+        </Property>
+        <Property name="Location">355, 244</Property>
+        <Property name="Name">DigitalBox4</Property>
+        <Property name="NCJK">
+          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">DigitalBox4</Item>
+        </Property>
+        <Property name="Size">120, 24</Property>
+        <Property name="TagBinding">Rashod_m_1</Property>
+        <Property name="ValueFontName">Tahoma</Property>
+        <Property name="ValueFontSize">12</Property>
+        <Property name="ValueStyle">Regular</Property>
+        <Property name="Visible_">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
+            <Argument />
+            <Argument>0</Argument>
+          </InstanceDescriptor>
+        </Property>
+      </Object>
       <Object type="ControlsLib.DigitalBox, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DigitalBox3" children="Controls">
         <Property name="_TagBinding">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -995,7 +1053,7 @@
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Label2</Item>
         </Property>
-        <Property name="Size">476, 16</Property>
+        <Property name="Size">345, 16</Property>
         <Property name="Text">Label2</Property>
         <Property name="TextAlign">MiddleLeft</Property>
         <Property name="Visible_">
@@ -1129,7 +1187,7 @@
         <Property name="NCJK">
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Label2</Item>
         </Property>
-        <Property name="Size">476, 16</Property>
+        <Property name="Size">345, 16</Property>
         <Property name="Text">Label2</Property>
         <Property name="TextAlign">MiddleLeft</Property>
         <Property name="Visible_">
@@ -3835,7 +3893,7 @@
       <Property name="TitleBar">False</Property>
     </Object>
   </DOCUMENT_ELEMENT>
-  <DOCUMENT_ELEMENT Page="cool_popup_1" OnTab="2" Active="Yes">
+  <DOCUMENT_ELEMENT Page="cool_popup_1" OnTab="2">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="cool_popup_1" children="Controls">
       <Object type="ControlsLib.Rect, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rect13" children="Controls">
         <Property name="_TagBinding">
@@ -3846,15 +3904,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -3883,7 +3933,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">13</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_1Rect13</Property>
+        <Property name="ResourceName">ScreenFmRect13</Property>
         <Property name="Size">25, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -3901,15 +3951,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -3938,7 +3980,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">12</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_1Rect12</Property>
+        <Property name="ResourceName">ScreenFmRect12</Property>
         <Property name="Size">25, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -3956,15 +3998,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -3993,7 +4027,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">11</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_1Rect11</Property>
+        <Property name="ResourceName">ScreenFmRect11</Property>
         <Property name="Size">25, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -4011,11 +4045,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 255, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;Yellow;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -4040,7 +4070,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect9</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_1Rect9</Property>
+        <Property name="ResourceName">ScreenFmRect9</Property>
         <Property name="Size">51, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -4058,11 +4088,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 255, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;Yellow;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -4087,7 +4113,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect1</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_1Rect1</Property>
+        <Property name="ResourceName">ScreenFmRect1</Property>
         <Property name="Size">51, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -4105,11 +4131,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;Transparent;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;Transparent;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -4134,7 +4156,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect7</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_1Rect7</Property>
+        <Property name="ResourceName">ScreenFmRect7</Property>
         <Property name="Size">51, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -4152,15 +4174,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Clicked">SaveScreentoFile();
 </Property>
@@ -4191,7 +4205,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">10</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_1Rect10</Property>
+        <Property name="ResourceName">ScreenFmRect10</Property>
         <Property name="Size">25, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -4209,11 +4223,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;Transparent;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;Transparent;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -4238,7 +4248,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect2</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_1Rect2</Property>
+        <Property name="ResourceName">ScreenFmRect2</Property>
         <Property name="Size">51, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -4256,11 +4266,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 255, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;Yellow;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -4285,7 +4291,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect6</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_1Rect6</Property>
+        <Property name="ResourceName">ScreenFmRect6</Property>
         <Property name="Size">51, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -4303,11 +4309,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 255, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;Yellow;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Clicked">SaveScreentoFile();
 </Property>
@@ -4334,7 +4336,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect3</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_1Rect3</Property>
+        <Property name="ResourceName">ScreenFmRect3</Property>
         <Property name="Size">51, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -4351,10 +4353,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -4394,10 +4392,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">1</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -4480,10 +4474,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -4528,10 +4518,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -4576,10 +4562,6 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -4618,10 +4600,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -4662,10 +4640,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -4710,10 +4684,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -4758,10 +4728,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -4807,10 +4773,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -5008,10 +4970,6 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -5052,10 +5010,6 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -5099,10 +5053,6 @@
         <Property name="Bands">
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Gray;Black;Turquoise;Закрыть;True;False;Pink;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;Red;Black;Turquoise;Button7;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
         </Property>
         <Property name="Clicked">ClosePopup(cool_popup_1);
 </Property>
@@ -6920,15 +6870,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -6957,7 +6899,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">13</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_2Rect13</Property>
+        <Property name="ResourceName">ScreenFmRect13</Property>
         <Property name="Size">25, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -6975,15 +6917,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7012,7 +6946,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">12</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_2Rect12</Property>
+        <Property name="ResourceName">ScreenFmRect12</Property>
         <Property name="Size">25, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -7030,15 +6964,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7067,7 +6993,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">11</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_2Rect11</Property>
+        <Property name="ResourceName">ScreenFmRect11</Property>
         <Property name="Size">25, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -7085,11 +7011,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 255, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;Yellow;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7114,7 +7036,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect9</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_2Rect9</Property>
+        <Property name="ResourceName">ScreenFmRect9</Property>
         <Property name="Size">51, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -7132,11 +7054,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 255, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;Yellow;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7161,7 +7079,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect1</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_2Rect1</Property>
+        <Property name="ResourceName">ScreenFmRect1</Property>
         <Property name="Size">51, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -7179,11 +7097,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;Transparent;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;Transparent;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7208,7 +7122,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect7</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_2Rect7</Property>
+        <Property name="ResourceName">ScreenFmRect7</Property>
         <Property name="Size">51, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -7226,15 +7140,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;255, 128, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7263,7 +7169,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">10</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_2Rect10</Property>
+        <Property name="ResourceName">ScreenFmRect10</Property>
         <Property name="Size">25, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -7281,11 +7187,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;Transparent;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;Transparent;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7310,7 +7212,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect2</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_2Rect2</Property>
+        <Property name="ResourceName">ScreenFmRect2</Property>
         <Property name="Size">51, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -7328,11 +7230,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 255, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;Yellow;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7357,7 +7255,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect6</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_2Rect6</Property>
+        <Property name="ResourceName">ScreenFmRect6</Property>
         <Property name="Size">51, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -7375,11 +7273,7 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Bands">
-          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;192, 192, 192;Black;255, 255, 0;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
-        </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
+          <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Silver;Black;Yellow;Rect3;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7404,7 +7298,7 @@
           <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Rect3</Item>
         </Property>
         <Property name="PRs" />
-        <Property name="ResourceName">cool_popup_2Rect3</Property>
+        <Property name="ResourceName">ScreenFmRect3</Property>
         <Property name="Size">51, 17</Property>
         <Property name="Visible_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -7421,10 +7315,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -7464,10 +7354,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">1</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7554,10 +7440,6 @@
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">0;0;Gray;Black;Turquoise;Закрыть;True;False;Pink;;False;Transparent;None;None;0;0</Item>
           <Item type="ControlsLib.BandData, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">1;1;Red;Black;Turquoise;Button7;True;False;Pink;;False;Transparent;None;None;0;0</Item>
         </Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Clicked">ClosePopup(cool_popup_2);
 </Property>
         <Property name="Enable">True</Property>
@@ -7598,10 +7480,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7646,10 +7524,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7694,10 +7568,6 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -7736,10 +7606,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -7780,10 +7646,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7828,10 +7690,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7876,10 +7734,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -7925,10 +7779,6 @@
           </InstanceDescriptor>
         </Property>
         <Property name="_Visible">True</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Decimal">0</Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
@@ -8126,10 +7976,6 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
@@ -8170,10 +8016,6 @@
         </Property>
         <Property name="_Visible">True</Property>
         <Property name="Back_Color">Transparent</Property>
-        <Property name="CJK">
-          <Item type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          </Item>
-        </Property>
         <Property name="Enable">True</Property>
         <Property name="Enable_">
           <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAQEplcnJ5c0xpYiwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwGBAAAABhDb250cm9sc0xpYi5CaW5kaW5nQ2xhc3MGBQAAACBWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIEludDMyKQEAAAAKCw==">
