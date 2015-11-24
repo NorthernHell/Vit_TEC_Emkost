@@ -6,7 +6,7 @@
     <Item Title="Screen4" />
     <Item Title="cool_popup_2" />
   </ScreenTree>
-  <DOCUMENT_ELEMENT Page="Screen1" OnTab="0">
+  <DOCUMENT_ELEMENT Page="Screen1" OnTab="0" Active="Yes">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Screen1" children="Controls">
       <Object type="ControlsLib.Button, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Button6" children="Controls">
         <Property name="_TagBinding">
