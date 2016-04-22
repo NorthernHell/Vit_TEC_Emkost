@@ -1766,7 +1766,7 @@
       <Property name="TitleBar">False</Property>
     </Object>
   </DOCUMENT_ELEMENT>
-  <DOCUMENT_ELEMENT Page="Screen2" OnTab="1">
+  <DOCUMENT_ELEMENT Page="Screen2" OnTab="1" Active="Yes">
     <Object type="ControlsLib.ScreenFm, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Screen2" children="Controls">
       <Object type="ControlsLib.Button, JerrysLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Button1" children="Controls">
         <Property name="_TagBinding">
@@ -2762,7 +2762,7 @@
         <Property name="GroupName" />
         <Property name="IsAlpha">True</Property>
         <Property name="Level">100</Property>
-        <Property name="LevelMax">11805</Property>
+        <Property name="LevelMax">1180</Property>
         <Property name="Location">357, 52</Property>
         <Property name="Name">CutawayControl2</Property>
         <Property name="Size">21, 207</Property>
